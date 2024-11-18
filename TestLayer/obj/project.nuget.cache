@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "h3bKnuVxNtM=",
+  "dgSpecHash": "5LD2yQk95ns=",
   "success": true,
   "projectFilePath": "C:\\Users\\kuncham_manikanta\\Documents\\PA for QA\\PAQA\\TestLayer\\TestLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kuncham_manikanta\\.nuget\\packages\\bodi\\1.5.0\\bodi.1.5.0.nupkg.sha512",
+    "C:\\Users\\kuncham_manikanta\\.nuget\\packages\\dotnetseleniumextras.waithelpers\\3.11.0\\dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
     "C:\\Users\\kuncham_manikanta\\.nuget\\packages\\fluentassertions\\6.2.0\\fluentassertions.6.2.0.nupkg.sha512",
     "C:\\Users\\kuncham_manikanta\\.nuget\\packages\\gherkin\\19.0.3\\gherkin.19.0.3.nupkg.sha512",
     "C:\\Users\\kuncham_manikanta\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\8.0.0\\microsoft.bcl.asyncinterfaces.8.0.0.nupkg.sha512",
